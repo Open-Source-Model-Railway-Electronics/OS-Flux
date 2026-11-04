@@ -1,0 +1,40 @@
+08-24 12:31:48 com_github_bouni_kicad-jlcpcb-tools.library 58:Data directory 'jlcpcb' does not exist and will be created.
+08-24 12:31:48 com_github_bouni_kicad-jlcpcb-tools.library 197:Create SQLite table for rotations
+08-24 12:31:48 com_github_bouni_kicad-jlcpcb-tools.library 384:Parts db is split into 3 parts. Proceeding to download...
+08-24 12:31:48 com_github_bouni_kicad-jlcpcb-tools.library 388:Removing any spurios old zip part files...
+08-24 12:32:03 com_github_bouni_kicad-jlcpcb-tools.library 431:Download parts db chunk 1 with a size of 76.29MB
+08-24 12:32:19 com_github_bouni_kicad-jlcpcb-tools.library 384:Parts db is split into 3 parts. Proceeding to download...
+08-24 12:32:19 com_github_bouni_kicad-jlcpcb-tools.library 388:Removing any spurios old zip part files...
+08-24 12:32:19 com_github_bouni_kicad-jlcpcb-tools.library 390:Removing \\NLFS01.hm.local\Data\UserData\NL\Home\sknippels\KiCad\7.0\3rdparty\plugins\com_github_bouni_kicad-jlcpcb-tools\jlcpcb\parts.db.zip.001.
+08-24 12:32:20 com_github_bouni_kicad-jlcpcb-tools.library 431:Download parts db chunk 1 with a size of 76.29MB
+08-24 12:32:52 com_github_bouni_kicad-jlcpcb-tools.library 431:Download parts db chunk 2 with a size of 76.29MB
+08-24 12:33:28 com_github_bouni_kicad-jlcpcb-tools.library 431:Download parts db chunk 3 with a size of 27.68MB
+08-24 12:33:40 com_github_bouni_kicad-jlcpcb-tools.library 458:Combining and extracting zip part files...
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part C903 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part C905 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part U901 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part R902 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part C401 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part C906 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part SW201 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part R301 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part R302 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part C902 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part C904 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part D101 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part R903 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part L901 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part U2 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part C901 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part R901 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part J5 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part R201 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part J101 does not exist in the database and will be created from the board.
+08-24 12:45:07 com_github_bouni_kicad-jlcpcb-tools.store 210:Part M101 does not exist in the database and will be created from the board.
+08-24 12:46:26 com_github_bouni_kicad-jlcpcb-tools.store 210:Part U201 does not exist in the database and will be created from the board.
+08-24 12:48:07 com_github_bouni_kicad-jlcpcb-tools.library 384:Parts db is split into 3 parts. Proceeding to download...
+08-24 12:48:07 com_github_bouni_kicad-jlcpcb-tools.library 388:Removing any spurios old zip part files...
+08-24 12:48:07 com_github_bouni_kicad-jlcpcb-tools.library 431:Download parts db chunk 1 with a size of 76.29MB
+08-24 12:48:41 com_github_bouni_kicad-jlcpcb-tools.library 431:Download parts db chunk 2 with a size of 76.29MB
+08-24 12:49:15 com_github_bouni_kicad-jlcpcb-tools.library 431:Download parts db chunk 3 with a size of 27.68MB
+08-24 12:49:27 com_github_bouni_kicad-jlcpcb-tools.library 458:Combining and extracting zip part files...
